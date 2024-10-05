@@ -1,10 +1,8 @@
 # Final Project - Manifesting Machine Learning
 
 ## Project cloning
-
 ```
 git clone https://github.com/MahammadHajiyev2024/datafun-07-ml
-
 ```
 ## Establish .gitignore file
 ```
@@ -13,19 +11,14 @@ git clone https://github.com/MahammadHajiyev2024/datafun-07-ml
  .ipynb_checkpoints/
 
 ```
-
 ## Create and Activate Virtual Environment
-
 ```
 py -m venv .venv
 .venv\Scripts\Activate
-
 ```
 ## Installing requirements
-
 ```
 py -m pip install -r requirements.txt
-
 ```
 ## Pushing back to origin
 
